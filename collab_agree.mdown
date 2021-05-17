@@ -4,28 +4,25 @@ More formal data-sharing and collaboration agreements can be found here **(links
 
 # Parties involved
 
-<br />
+**Party member 1**:  
 
-**Party member 1**:\  
+Institution:  
 
-Institution:\  
-
-Position:\  
-
-<br />
-**Party member 2**:\  
-
-Institution:\  
-
-Position:\  
+Position:  
 
 
-<br />
-**Party member 3**:\  
+**Party member 2**:  
 
-Institution:\  
+Institution:  
 
-Position:\  
+Position:  
+
+
+**Party member 3**:  
+
+Institution:  
+
+Position: 
 
 
 *[add party members as necessary]*  
@@ -58,32 +55,33 @@ If necessary, a reassessment, and a possible extension, of this collaborative ag
 
 **P1**:\
 **P2**:\
-**P3**:\
+**P3**:
 
 ## Storage and management of biological samples and/or research equipment
 
 **P1**:\
 **P2**:\
-**P3**:\
+**P3**:
+
 
 ## Data storage and management
 
 **P1**:\
 **P2**:\
-**P3**:\
+**P3**:
 
 ## Data analysis
 
 **P1**:\
 **P2**:\
-**P3**:\
+**P3**:
 
 ## Dissemination of results 
 (e.g. writing manuscripts for publication, conference presentations, communications with the general public, etc)
 
 **P1**:\
 **P2**:\
-**P3**:\
+**P3**:
 
 ## Other
 
@@ -91,7 +89,7 @@ If necessary, a reassessment, and a possible extension, of this collaborative ag
 
 **P1**:\
 **P2**:\
-**P3**:\
+**P3**:
 
 # General provisions
 
@@ -116,7 +114,7 @@ If any party/ies has/have ‘first rights’ to publication on a particular topi
 
 **P1**:\
 **P2**:\
-**P3**:\
+**P3**:
 
 
 
